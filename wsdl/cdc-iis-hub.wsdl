@@ -19,8 +19,8 @@
     =====================================================================================================-->
     <wsdl:types>
         <xsd:schema>
-            <xsd:import namespace="urn:cdc:iisb:2014" schemaLocation="../schema/cdc-iis.xsd"/>
-            <xsd:import namespace="urn:cdc:iisb:hub:2014" schemaLocation="../schema/cdc-iis-hub.xsd"/>
+            <xsd:import namespace="urn:cdc:iisb:2014" schemaLocation="https://vermontdepartmentofhealth.github.io/iz-gateway/schema/cdc-iis.xsd"/>
+            <xsd:import namespace="urn:cdc:iisb:hub:2014" schemaLocation="https://vermontdepartmentofhealth.github.io/iz-gateway/schema/cdc-iis-hub.xsd"/>
         </xsd:schema>
     </wsdl:types>
     
